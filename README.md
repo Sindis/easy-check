@@ -1,8 +1,8 @@
 Meteor Easy Check
 =====================
 
-Created by: https://github.com/matteodem/meteor-easy-check.git#v0.3.1
-Maintained by: https://github.com/Sindis
+* Created by: https://github.com/matteodem/meteor-easy-check.git#v0.3.1
+* Maintained by: https://github.com/Sindis/easy-check
 
 This package makes it as simple as possible to check objects, e.g. for a Meteor.Collection.
 
