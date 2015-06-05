@@ -53,7 +53,7 @@ CarsCollection.easyRemove(selector, [callback]);
 
 ## How to install
 ```
-mrt add easy-check
+meteor add sinda:easy-check
 ```
 
 
